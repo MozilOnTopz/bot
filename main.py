@@ -16,7 +16,7 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 target_channels = [
     1395784873708486656,  # channel cũ
     1416791491602419904,  # channel mới 1
-    1422085005605339189   # channel mới 2
+    1418942402038730783   # channel mới 2
 ]
 announce_channel_id = 1402130773418442863    # kênh DUY NHẤT để bot gửi thông báo/phan hồi
 
